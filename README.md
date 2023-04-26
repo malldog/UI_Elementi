@@ -3,15 +3,15 @@
 Projekts, kura ietvaros apgūsim UI elementu veidošanu un darbošanos ar tiem, tēma: Mr Bean
 
 ### Uzdevumi:
-- [ ] Input field lietojums
-- [ ] Text elementa lietojums
-- [ ] Button elementa lietojums
-- [ ] Image elementa lietojums
-- [ ] C# skriptu izveide un piesaiste objektiem
-- [ ] Toggle elementu lietojums
-- [ ] Toggle goup komponentes lietojums
-- [ ] Dropdown elementa lietojums
-- [ ] Slider elementu lietojums
+- [x] Input field lietojums
+- [x] Text elementa lietojums
+- [x] Button elementa lietojums
+- [x] Image elementa lietojums
+- [x] C# skriptu izveide un piesaiste objektiem
+- [x] Toggle elementu lietojums
+- [x] Toggle group komponentes lietojums
+- [x] Dropdown elementa lietojums
+- [x] Slider elementu lietojums
 - [ ] Audio source integrēšana
 - [ ] Scroll view elementu lietojums
 - [ ] Drag & drop funkcionalitātes ieviešana
